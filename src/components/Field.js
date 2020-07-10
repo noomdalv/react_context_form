@@ -8,8 +8,8 @@ class Field extends React.Component {
 		const text = this.context.language === "english" ? "Name" : "Nombre";
 		return (
 			<div className="ui field">
-				<label>{text}</label>
-				<input />
+				<label className="ui teal label" style={{width: "max-content"}}>{text}</label>
+				<input style={{width: "40%"}} />
 			</div>
 		);
 	}
