@@ -9,7 +9,7 @@ class Button extends React.Component {
 		return value === "english" ? "Submit" : "Enviar";
 	}
 
-	render() {		
+	render() {
 		return (
 			<ColorContext.Consumer>
 				{(color) =>
