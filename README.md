@@ -10,11 +10,9 @@ The App uses a LanguageStore class component to wrap and send via this.props.chi
 - React Context API
 - HTML5
 
-## App Screenshot
+## App Screenshots
 
-![screenshot](./public/ss_eng.jpg)
-![screenshot](./public/ss_spa.jpg)
-
+<img src="./public/ss_eng.jpg" width="45%"><img src="./public/ss_spa.jpg" width="45%">
 
 ## Setup instructions
 
